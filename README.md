@@ -95,7 +95,7 @@ PGN Output:
 ## 👨‍💻 Author
 
 **Pulkit Mohan**  
-🎓 B.Tech, IIT Kharagpur '27  
+🎓 B.Tech + M.Tech(Dual Degree), IIT Kharagpur '28  
 📧 [pulkitmohan7@gmail.com](mailto:pulkitmohan7@gmail.com)  
 🔗 [GitHub Profile](https://github.com/pulkitmohan26)
 
