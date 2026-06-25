@@ -94,10 +94,10 @@ PGN Output:
 
 ## 👨‍💻 Author
 
-**Divyansh Jain**  
+**Pulkit Mohan**  
 🎓 B.Tech, IIT Kharagpur '27  
-📧 [div0211jain@gmail.com](mailto:div0211jain@gmail.com)  
-🔗 [GitHub Profile](https://github.com/jainDivyansh0211)
+📧 [pulkitmohan7@gmail.com](mailto:pulkitmohan7@gmail.com)  
+🔗 [GitHub Profile](https://github.com/pulkitmohan26)
 
 ---
 
